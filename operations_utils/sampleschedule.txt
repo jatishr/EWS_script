@@ -1,0 +1,3 @@
+C:\Users\skumar1ADM\AppData\Local\Programs\Python\Python39\python.exe
+EWSMetrics.py
+D:\users\sushant\operations_utils\metrics\ewsoperations

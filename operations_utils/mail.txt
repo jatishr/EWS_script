@@ -1,0 +1,8 @@
+telnet mailrelay.chartercom.com 25
+ehlo mailrelay.chartercom.com 
+mail from:vm0dweaixxa005@corp.chartercom.com> 
+rcpt to:sushant.kumar@charter.com 
+data 
+This is a test, please do not respond 
+. 
+quit
